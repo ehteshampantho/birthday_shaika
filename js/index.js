@@ -290,7 +290,7 @@ function reveal() {
     w = 400;h = 300;
   } else
   {
-    w = 400;h = 300;
+    w = 600;h = 700;
   }
 
   // document.getElementById("video").src ="../assets/YouTube.mp4";
